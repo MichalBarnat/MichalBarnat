@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichalBarnat
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning swift, swiftUI
-- 💞️ I’m looking to collaborate on iOS projects
+- 👀 I’m interested in iOS development and Java
+- 🌱 I’m currently learning Java and Swift
+- 💞️ I’m looking to collaborate on iOS/java projects
 - 📫 How to reach me -> michalbarnat@protonmail.com
 
 <!---
